@@ -9,11 +9,11 @@ def randomPass():
     all = lower + upper + digits
     shuffle(all)
 
-    length = int(input("How long is the password?"))
+    length = int(input("How long is the password?: "))
     password = ''
 
     for i in range(length):
         password += choice(all)
         print(password)
 
-    randomPass
+    randomPass()

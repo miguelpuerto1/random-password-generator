@@ -1,8 +1,17 @@
 # random-password-generator
 
-password generator in python
+## Purpose
+a random password generator that generates a random password of a certain length
 
-# how to run the code
+## Built With
+* Python 3.7.3
 
-to run this code go into terminal and type "python3 rand.py" then pick the length of the password you want with a number
+## how to run the program
+python3 random-password-generator.py in the terminal
+
+## Website
+N/A
+
+## Contribution
+Made with ❤️ by Miguel Puerto
 
